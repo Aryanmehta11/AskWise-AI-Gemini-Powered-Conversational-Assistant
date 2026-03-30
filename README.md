@@ -160,19 +160,5 @@ Useful for backend/AI engineer roles.
 
 Built as part of learning and experimentation with AI-powered applications.
 
----
-
-# 🔥 Extra pro tip for you specifically
-
-Since you’re aiming **top 1% dev + AI roles**, add this line to resume:
-
-> Built and deployed a Gemini-powered conversational AI assistant using Streamlit with real-time streaming responses and cloud hosting.
-
-Recruiters love:
-
-* “deployed”
-* “LLM”
-* “real-time”
-* “production-ready”
 
 
